@@ -1,0 +1,5 @@
+package DiamonShop.UserController;
+
+public class HomeController {
+
+}
